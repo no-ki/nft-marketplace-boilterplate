@@ -24,9 +24,6 @@ module.exports = {
     hardhat: {
       chainId: 1337
     },
-    mumbai: {
-      accounts: []
-    },
     mainnet: {
       url: `https://mainnet.infura.io/v3/${projectId}`,
       accounts: [privateKey]
